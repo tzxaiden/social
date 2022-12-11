@@ -1,0 +1,2 @@
+MONGO_URL="mongodb+srv://lololenkova:Santaonthemoon@cluster0.wryyaim.mongodb.net/?retryWrites=true&w=majority"
+PORT=3001
